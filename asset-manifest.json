@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.378f825a.css",
+    "main.js": "/static/js/main.c139dac7.js",
+    "static/js/453.5779cf73.chunk.js": "/static/js/453.5779cf73.chunk.js",
+    "static/media/bman.jpg": "/static/media/bman.c68ae08bfcb7c5a96574.jpg",
+    "static/media/2-women-safe.jpg": "/static/media/2-women-safe.ac17455267b9bd919bbe.jpg",
+    "static/media/brian-lawson-unsafe.jpg": "/static/media/brian-lawson-unsafe.494e1c7221a31e7e92db.jpg",
+    "static/media/man-safe.jpg": "/static/media/man-safe.81346cdd1281cdc92cd8.jpg",
+    "static/media/main.png": "/static/media/main.7456dbbfbfb65422658a.png",
+    "static/media/woman2.jpg": "/static/media/woman2.4c7b0747093dd1c3a4ff.jpg",
+    "static/media/woman-unsafe2.jpg": "/static/media/woman-unsafe2.ca0ff15d3cb1aea461f7.jpg",
+    "static/media/woman safe.jpg": "/static/media/woman safe.aedc3318d9389eb24f33.jpg",
+    "static/media/Montserrat-Bold.ttf": "/static/media/Montserrat-Bold.0915f0a8c3367a6d05ec.ttf",
+    "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.647f0e61af3a76a138c3.ttf",
+    "static/media/lapi.png": "/static/media/lapi.e7cba5b69ba58b773669.png",
+    "static/media/extDark.png": "/static/media/extDark.6149df4e7db8a01f31a7.png",
+    "static/media/extLight.png": "/static/media/extLight.e5176d8b3f0f60ff6fb2.png",
+    "static/media/bottomimg.png": "/static/media/bottomimg.7a9f7734eb9ecc13fd10.png",
+    "static/media/lapiBtm.png": "/static/media/lapiBtm.f9ed58788bef81572a92.png",
+    "static/media/logo-bigger.png": "/static/media/logo-bigger.cf9f7153bc217067866a.png",
+    "static/media/BankGothic Bold.ttf": "/static/media/BankGothic Bold.d41652304aba3b6ca24f.ttf",
+    "static/media/bank gothic medium bt.ttf": "/static/media/bank gothic medium bt.b866cf9691d7ed0bcf97.ttf",
+    "static/media/MonumentExtended-Regular.otf": "/static/media/MonumentExtended-Regular.db74f7a563ec017311bc.otf",
+    "static/media/MonumentExtended-Ultrabold.otf": "/static/media/MonumentExtended-Ultrabold.9db16afed1996befff6b.otf",
+    "static/media/EurostileExtendedBlack.ttf": "/static/media/EurostileExtendedBlack.217cf0677911ce34c293.ttf",
+    "static/media/EuroStyle Normal.ttf": "/static/media/EuroStyle Normal.484dfcabae8f37b92ef4.ttf",
+    "static/media/Bank Gothic Light Regular.otf": "/static/media/Bank Gothic Light Regular.1008d50b7f3e37ea9828.otf",
+    "index.html": "/index.html",
+    "main.378f825a.css.map": "/static/css/main.378f825a.css.map",
+    "main.c139dac7.js.map": "/static/js/main.c139dac7.js.map",
+    "453.5779cf73.chunk.js.map": "/static/js/453.5779cf73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.378f825a.css",
+    "static/js/main.c139dac7.js"
+  ]
+}
