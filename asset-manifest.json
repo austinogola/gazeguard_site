@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5bd67e7f.css",
-    "main.js": "/static/js/main.fed4d5aa.js",
+    "main.js": "/static/js/main.25fb240d.js",
     "static/js/453.5779cf73.chunk.js": "/static/js/453.5779cf73.chunk.js",
     "static/media/bman.jpg": "/static/media/bman.c68ae08bfcb7c5a96574.jpg",
     "static/media/2-women-safe.jpg": "/static/media/2-women-safe.ac17455267b9bd919bbe.jpg",
@@ -28,11 +28,11 @@
     "static/media/Bank Gothic Light Regular.otf": "/static/media/Bank Gothic Light Regular.1008d50b7f3e37ea9828.otf",
     "index.html": "/index.html",
     "main.5bd67e7f.css.map": "/static/css/main.5bd67e7f.css.map",
-    "main.fed4d5aa.js.map": "/static/js/main.fed4d5aa.js.map",
+    "main.25fb240d.js.map": "/static/js/main.25fb240d.js.map",
     "453.5779cf73.chunk.js.map": "/static/js/453.5779cf73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bd67e7f.css",
-    "static/js/main.fed4d5aa.js"
+    "static/js/main.25fb240d.js"
   ]
 }
